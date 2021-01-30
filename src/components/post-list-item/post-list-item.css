@@ -1,7 +1,6 @@
 .app-list-item {
   font-size: 1.25rem;
 }
-
 .app-list-item button {
   width: 35px;
   height: 35px;
@@ -31,7 +30,6 @@
     transform: translateX(30px);
     opacity: 0;
 }
-
 .app-list-item-label {
   display: block;
   line-height: 35px;
@@ -39,16 +37,13 @@
   user-select: none;
   transition: 0.5s all;
 }
-
 .app-list-item.like .fa-heart {
     opacity: 1;
     transform: translateX(0px);
 }
-
 .app-list-item.important .app-list-item-label {
   color: #FFD700;
 }
-
 .app-list-item.important .btn-star {
     color: #aeaeae;
 }

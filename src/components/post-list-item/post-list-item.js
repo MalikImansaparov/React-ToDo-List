@@ -10,7 +10,7 @@ export default class PostListItem extends Component {
         if (important) {
             classNames += ' important';
         }
-
+           // events + class 'important,like'
         if (like) {
             classNames += ' like'
         }

@@ -19,7 +19,7 @@ const PostList = ({posts, onDelete, onToggleImportant, onToggleLiked}) => {
       )
     })
     return (
-        <ListGroup className="app-list">
+        <ListGroup className="app-list"> //flexible component for displaying and modify of content
             {elements}
         </ListGroup>
     )
