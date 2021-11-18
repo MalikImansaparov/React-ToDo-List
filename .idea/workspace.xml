@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9934f4a2-8123-4131-a49d-9565e82e2cd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c45O01sdMji4H2HxG3nfNV17Q8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JavaScript/Production/ToDoList" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src" />
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src\components\search-panel" />
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src\components\post-status-filter" />
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src\components\post-list-item" />
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src\components\post-list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\malik\WebstormProjects\untitled\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9934f4a2-8123-4131-a49d-9565e82e2cd5" name="Default Changelist" comment="" />
+      <created>1589774988538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589774988538</updated>
+      <workItem from="1589774991263" duration="10416000" />
+      <workItem from="1589793888241" duration="8221000" />
+      <workItem from="1589869683028" duration="4086000" />
+      <workItem from="1589876651305" duration="8552000" />
+      <workItem from="1589951016869" duration="13484000" />
+      <workItem from="1590047277749" duration="810000" />
+      <workItem from="1590063355888" duration="3322000" />
+      <workItem from="1590205321501" duration="2239000" />
+      <workItem from="1590207833801" duration="5207000" />
+      <workItem from="1590219407501" duration="3519000" />
+      <workItem from="1590247556663" duration="1398000" />
+      <workItem from="1590309018246" duration="4225000" />
+      <workItem from="1590377963839" duration="8440000" />
+      <workItem from="1590392946529" duration="2328000" />
+      <workItem from="1590399993379" duration="658000" />
+      <workItem from="1590401614580" duration="521000" />
+      <workItem from="1590471826162" duration="1350000" />
+      <workItem from="1590474950231" duration="1023000" />
+      <workItem from="1590506142397" duration="28000" />
+      <workItem from="1591359763796" duration="348000" />
+      <workItem from="1591364986769" duration="11000" />
+      <workItem from="1591504916448" duration="96000" />
+      <workItem from="1591539753506" duration="264000" />
+      <workItem from="1591891444959" duration="160000" />
+      <workItem from="1602515556156" duration="409000" />
+      <workItem from="1603036140520" duration="211000" />
+      <workItem from="1603036644284" duration="640000" />
+      <workItem from="1603074484644" duration="1395000" />
+      <workItem from="1603894896353" duration="166000" />
+      <workItem from="1604112401235" duration="673000" />
+      <workItem from="1604151565755" duration="73000" />
+      <workItem from="1605838494666" duration="40000" />
+      <workItem from="1605839111025" duration="92000" />
+      <workItem from="1606106435863" duration="960000" />
+      <workItem from="1606270717641" duration="253000" />
+      <workItem from="1606272245067" duration="301000" />
+      <workItem from="1606403581496" duration="314000" />
+      <workItem from="1607354267708" duration="2663000" />
+      <workItem from="1607392711654" duration="28000" />
+      <workItem from="1607613063331" duration="3913000" />
+      <workItem from="1608268718053" duration="1553000" />
+      <workItem from="1608297243707" duration="2118000" />
+      <workItem from="1608358455832" duration="87000" />
+      <workItem from="1611984366631" duration="3205000" />
+      <workItem from="1611989498536" duration="261000" />
+      <workItem from="1612074417852" duration="2860000" />
+      <workItem from="1612247371289" duration="887000" />
+      <workItem from="1612336893032" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1612248260716">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1612248260716" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/app/App.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
