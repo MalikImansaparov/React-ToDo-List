@@ -26,12 +26,12 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 ### Setup
 Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
 ```sh
-$ git clone https://github.com/MalikImansaparov/Restaurant-shop.git
+$ git clone https://github.com/MalikImansaparov/React-ToDo-List.git
 ```
 
 Navigate to the extracted folder
 ```sh 
-cd restaurant-shop
+cd React-ToDo-List
 ```
 
 Install the dependencies and modules
@@ -39,10 +39,6 @@ Install the dependencies and modules
 $ npm install
 ```
 
-### Usage
-```sh
-$ json-server db.json
-```
 ```sh
 $ npm start
 ```
