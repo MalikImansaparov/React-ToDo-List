@@ -2,6 +2,7 @@
 ## Road to the Dream
 
 Demo: https://road-to-the-dream-todo.netlify.app/
+
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
 ### Features
@@ -21,7 +22,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Reactstrap
 
 ### Prerequisites
-- Webpack 
+- CRA 
 - npm
 
 ### Setup
