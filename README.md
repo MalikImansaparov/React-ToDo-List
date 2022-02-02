@@ -1,6 +1,8 @@
 # ToDo-List
 ## Road to the Dream
 
+![Screenshot (155)](https://user-images.githubusercontent.com/50579392/152200147-e89fcc6b-8225-44af-a29e-d648092fb721.png)
+
 Demo: https://road-to-the-dream-todo.netlify.app/
 
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
