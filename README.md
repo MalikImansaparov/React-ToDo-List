@@ -44,6 +44,6 @@ $ npm install
 ```
 
 ```sh
-$ npm start
+$ npm start React-ToDo-List
 ```
 
